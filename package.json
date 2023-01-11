@@ -1,0 +1,38 @@
+{
+  "name": "login-page-vaishali",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@testing-library/dom": "8.19.0",
+    "@testing-library/jest-dom": "5.16.5",
+    "@testing-library/react": "13.4.0",
+    "@testing-library/user-event": "14.4.3",
+    "bootstrap": "5.2.3",
+    "enzyme": "3.11.0",
+    "enzyme-adapter-react-16": "1.15.7",
+    "enzyme-to-json": "3.6.2",
+    "jest-snapshot": "29.3.1",
+    "react": "18.2.0",
+    "react-bootstrap": "2.7.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
